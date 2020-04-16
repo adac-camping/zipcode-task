@@ -3,7 +3,7 @@
 Create an application to collect a user’s *name*, *address* and *zipcode*.
 
 ## Implementation instructions
-* Use modern front-end technologies (Feel free to use the react-app-starting point)
+* Use modern front-end technologies (Feel free to use the [react-app starting point](##react-app:-starting-point))
 * Use `zipcodes.json` to validate the provided zip-code
 * Provide a minimal *README* containing your approach and running instructions
 * Write meaningful *tests* that prove your solution
