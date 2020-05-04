@@ -24,7 +24,7 @@ Create an application to collect a user’s *name*, *address* and *zipcode*.
 ## Additional information
 The task should take about 2 hours to complete. Feel free to further improve your solution.
 When sending us back the solution, please provide a
-single git-bundle. 
+single [git bundle](https://git-scm.com/docs/git-bundle). 
 
 Please contact us immediately with any questions or feedback on this task. 
 
