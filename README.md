@@ -8,9 +8,10 @@ Create an application to collect a user’s *name*, *address* and *zipcode*.
 * Provide a minimal *README* containing your approach and running instructions
 * Write meaningful *tests* that prove your solution
 * Provide meaningful *commit-messages*
+* Keep external libraries to an absolute minimum (we prefer a homebrew solution that is not 100% feature-par with a out-of-the-box third-party-solution to see your skills)
 
 ## Minimum requirements
-* *Input fields* for name, address and zipcode
+* *Input fields* for name, address, city and zipcode
 * *Validation* that name and address are *not empty*
 * *Validation* that the provided *zipcode* is *valid and located in germany*
 * *Submit-Button*
